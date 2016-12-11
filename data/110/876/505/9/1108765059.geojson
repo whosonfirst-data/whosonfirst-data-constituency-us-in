@@ -9,7 +9,7 @@
     "geom:bbox":"-87.01306,39.60081,-86.32537,39.924169",
     "geom:latitude":39.768245,
     "geom:longitude":-86.682001,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1612683006.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 24",
     "uscensus:sldust":"024",
     "uscensus:statefp":"18",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688709
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486629,
     "wof:geomhash":"01deedbe86d3517b10f89ee584a0992d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688709
+        }
+    ],
     "wof:id":1108765059,
     "wof:lastmodified":1481486629,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688709,
     "wof:repo":"whosonfirst-data-constituency-us-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
